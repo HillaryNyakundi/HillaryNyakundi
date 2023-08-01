@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on backend projects.
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on backend projects.
-- 🤔 I’m looking for help with backend engineering.
 - 💬 Ask me about node.js
 - 📫 How to reach me: hillarynyakundi66@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a poet
