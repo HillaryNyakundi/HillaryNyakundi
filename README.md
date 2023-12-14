@@ -1,7 +1,7 @@
 - 👋 Hi, I am Hillary Nyakundi
-- 🔭 I’m currently working on backend projects.
-- 🌱 I’m currently learning node.js
-- 👯 I’m looking to collaborate on backend projects.
-- 💬 Ask me about node.js
+- 🔭 I’m currently working on react.js projects.
+- 🌱 I’m currently learning react.js and JavaScript.
+- 👯 I’m looking to collaborate on frontend projects.
+- 💬 Ask me about javaScript.
 - 📫 How to reach me: hillarynyakundi66@gmail.com
 - ⚡ Fun fact: I am a poet
