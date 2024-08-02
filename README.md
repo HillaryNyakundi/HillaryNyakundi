@@ -1,7 +1,7 @@
 - 👋 Hi, I am Hillary Nyakundi
-- 🔭 I’m currently working on react/next.js projects.
-- 🌱 I’m currently learning next.js and TypeScript.
-- 👯 I’m looking to collaborate on frontend projects.
-- 💬 Ask me about Frontend Development.
+- 🔭 I’m currently working on react/Laravel projects.
+- 🌱 I’m currently learning next.js and Laravel.
+- 👯 I’m looking to collaborate on full stack projects.
+- 💬 Ask me about Full stack Development.
 - 📫 How to reach me: hillarynyakundi66@gmail.com
 - ⚡ Fun fact: I am a poet
