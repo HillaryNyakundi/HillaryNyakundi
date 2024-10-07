@@ -2,7 +2,7 @@
 
 I am a passionate Frontend Developer delving into code and design. I have a particular interest and love towards UI & UX.
 
-![Hillary's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Hillary's Stats](https://github-readme-stats.vercel.app/api?username=HillaryNyakundi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
