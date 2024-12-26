@@ -9,7 +9,7 @@ I am a passionate Front-end Engineer delving into code and design. I have a part
 - 🔭 I'm a Poet and Front-end Engineer.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,ts,vercel,mongodb,postgres,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,ts,vercel,mongodb,postgres,pnpm,java,jest)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
